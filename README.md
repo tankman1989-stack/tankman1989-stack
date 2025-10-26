@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tankman1989-stack
-- 🌱 I’m currently learning R and JS
+- 🌱 I’m currently learning R and Java
 - ⚡ Fun fact: nothing happened at Tiananmen Square during 1989
 
 <!---
